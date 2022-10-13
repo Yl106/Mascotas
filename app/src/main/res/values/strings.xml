@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="nombre">Romeo</string>
+    <string name="id">ID: 155896312</string>
+    <string name="raza">Raza: Golden</string>
+    <string name="nivel">Nivel: 4</string>
+    <string name="pnombre">nombre</string>
+    <string name="pidentificacion">identificacion</string>
+    <string name="praza">raza</string>
+    <string name="pnivel">nivel</string>
+    <string name="plike">like</string>
+    <string name="menu_title">Mascotas favoritas seleccionadas</string>
+    <string name="todo">TODO</string>
+</resources>
